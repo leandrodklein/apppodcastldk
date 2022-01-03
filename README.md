@@ -28,3 +28,5 @@
 ### OBS: 
 - Rodar o Next.js - npm run dev
 - Rodar o arquivo server.json - npm run server
+
+![APP Podcast LDK](https://github.com/leandrodklein/apppodcastldk/blob/main/public/podcastldk.png)
